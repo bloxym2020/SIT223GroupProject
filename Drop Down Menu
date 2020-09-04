@@ -1,0 +1,10 @@
+<form action="/action_page.php">
+  <label for="cars">Choose a car:</label>
+  <select id="cars" name="cars" size="4" multiple>
+    <option value="volvo">Hyundai</option>
+    <option value="saab">Ford</option>
+    <option value="fiat">Holden</option>
+    <option value="audi">BMW</option>
+  </select><br><br>
+  <input type="submit">
+</form>
